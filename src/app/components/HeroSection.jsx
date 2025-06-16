@@ -28,7 +28,7 @@ const HeroSection = () => {
             <p className={`${oregano.className} text-2xl md:text-3xl lg:text-4xl text-[#737373] leading-relaxed`}>
               By day, I'm a Software Developer.<br />
               By night... also a Software Developer.<br />
-              But with more caffeine and darker themes.
+              But with more of caffeine and darker themes.
             </p>
           </div>
           
